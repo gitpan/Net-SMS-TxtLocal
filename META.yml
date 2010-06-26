@@ -21,11 +21,11 @@ no_index:
     - t
 requires:
   Carp: 0
-  JSON: 0
+  JSON: 2.16
   LWP::UserAgent: 0
   Moose: 0
   namespace::autoclean: 0
   perl: 5.6.0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
